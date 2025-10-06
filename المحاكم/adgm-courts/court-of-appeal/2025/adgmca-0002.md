@@ -1,7 +1,7 @@
 ---
 court: "ADGM Courts, Court of Appeal"
 citation: "[2025] ADGMCA 002"
-case: "ADGMCA-APP-2025-005"
+case: "ADGMCA-APP-2025-006"
 date: "2025-10-06"
 source: "https://www.adgm.com/adgm-courts/judgments"
 pdf: "https://assets.adgm.com/download/assets/ADGMCA-APP-2025-005-006-007+-+Joint+Judgment+-2025-+ADGMCA+0002+-+Permission+to+Appeal+Applications+-+06102025+SEALED.pdf/0fb6750aa28511f0ada6ce269d033d01"
