@@ -1,7 +1,7 @@
 ---
 court: "ADGM Courts, Court of First Instance"
 citation: "[2025] ADGMCFI 031"
-case: "ADGMCFI-2025-004"
+case: "ADGMCFI-2025-017"
 date: "2025-12-10"
 source: "https://www.adgm.com/adgm-courts/judgments"
 pdf: "https://assets.adgm.com/download/assets/ADGMCFI-2025-004+%26+017+-+Judgment+of+Justice+Paul+Heath+KC+10122025+SEALED.pdf/65bef9bcd59e11f090282a2eb97f64e9"
