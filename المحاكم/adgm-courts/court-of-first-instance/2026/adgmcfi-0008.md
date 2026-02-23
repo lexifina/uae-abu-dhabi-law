@@ -1,7 +1,7 @@
 ---
 court: "ADGM Courts, Court of First Instance"
 citation: "[2026] ADGMCFI 008"
-case: "ADGMCFI-2024-322"
+case: "ADGMCFI-2024-323"
 date: "2026-02-23"
 source: "https://www.adgm.com/adgm-courts/judgments"
 pdf: "https://assets.adgm.com/download/assets/ADGMCFI-2024-322+and+323+-+Joint+Judgment+%28Applications%29++23022026+-+%28Anonymised+Final+-+Re-issue+23032026%29+SEAL.pdf/9c0efcc6277c11f18bb42e24b6637d12"
