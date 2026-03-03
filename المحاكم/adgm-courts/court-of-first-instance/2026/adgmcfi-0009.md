@@ -1,7 +1,7 @@
 ---
 court: "ADGM Courts, Court of First Instance"
 citation: "[2026] ADGMCFI 009"
-case: "ADGMCFI-2023-249"
+case: "ADGMCFI-2024-047"
 date: "2026-03-03"
 source: "https://www.adgm.com/adgm-courts/judgments"
 pdf: "https://assets.adgm.com/download/assets/ADGMCFI-2023-249+%26+ADGMCFI-2024-047+-+Joint+Judgment+-+Correction+to+Register+SEALED.pdf/4cf7685616f311f1a7bb925dbd42f6af"
