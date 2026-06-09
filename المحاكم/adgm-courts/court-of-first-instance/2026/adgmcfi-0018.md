@@ -1,7 +1,7 @@
 ---
 court: "ADGM Courts, Court of First Instance"
 citation: "[2026] ADGMCFI 018"
-case: "ADGMCFI-2026-114"
+case: "ADGMCFI-2025-373"
 date: "2026-06-09"
 source: "https://www.adgm.com/adgm-courts/judgments"
 pdf: "https://assets.adgm.com/download/assets/ADGMCFI-2025-373+and+2026-114+-+A32+v+B32%3B+A35+v+B35+-+Joint+Judgment+-+ANONYMISED+-+09062026.pdf/6fafcd70752611f19e42fa90e3e3d0d3"
