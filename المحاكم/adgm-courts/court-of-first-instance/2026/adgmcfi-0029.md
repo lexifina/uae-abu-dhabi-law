@@ -1,7 +1,7 @@
 ---
 court: "ADGM Courts, Court of First Instance"
 citation: "[2026] ADGMCFI 029"
-case: "ADGMCFI-2026-646"
+case: "ADGMCFI-2026-647"
 date: "2026-11-12"
 source: "https://www.adgm.com/adgm-courts/judgments"
 pdf: "https://assets.adgm.com/download/assets/ADGMCFI-2026-646+%26+647+-+Joint+Judgment+%28Freezing+and+Disclosure+Applications%29/949d20e8de8911f1a3b6be84f27955d6"
